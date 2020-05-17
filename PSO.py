@@ -3,7 +3,7 @@ from numpy import matlib
 import matplotlib.pyplot as plt
 import random as random
 
-# problem definition
+# problem definition changed
 def sphere(x):
     x=np.array(x)
     return np.sum(x**2)
